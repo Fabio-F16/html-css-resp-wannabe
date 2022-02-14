@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 420px){
+    .row{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;  
+        margin-top: 10px;
+    }
+
+    #lezioni{
+        background-color: #f2f2cd;
+        padding: 5% 0px;
+    }
+
+    #lezioni .row>.left,
+    #lezioni .row>.right {
+      width: 100%; 
+    }  
+
+    img {
+        margin-top: 5%;
+        height: 120px;
+    }
+
+    #steps{
+        background-color: white;
+        margin-bottom: 5%;
+    }
+    #steps .row>.left,
+    #steps .row>.central,
+    #steps .row>.right {
+      width: 100%; 
+    }  
+
+    #why{
+        background-color: #f2f2cd;
+        padding: 2% 0px;
+    }
+
+    #why .row>.first,
+  #why .row>.second,
+  #why .row>.third {
+   
+    margin-top: 0px;
+  }
+    
+} 
