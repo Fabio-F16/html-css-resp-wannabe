@@ -16,6 +16,7 @@
     #lezioni{
         background-color: #f8c10b;
         padding: 5% 0px;
+        transition: all 3s;
     }
 
     #lezioni .row>.left,
@@ -31,6 +32,7 @@
     #steps{
         background-color: #f2f2cd;
         padding: 5% 0px;
+        transition: all 3s;
     }
     #steps .row>.left,
     #steps .row>.central,
@@ -41,6 +43,7 @@
     #why{
         background-color: #f8c10b;
         padding: 5% 0px;
+        transition: all 3s;
     }
 
     #why .row>.first,
@@ -65,6 +68,7 @@
     #lezioni{
         background-color: #f2f2cd;
         padding: 5% 0px;
+        transition: all 3s;
     }
 
     #lezioni .row>.left,
@@ -80,6 +84,7 @@
     #steps{
         background-color: white;
         margin-bottom: 5%;
+        transition: all 3s;
     }
     #steps .row>.left,
     #steps .row>.central,
@@ -90,6 +95,7 @@
     #why{
         background-color: #f2f2cd;
         padding: 2% 0px;
+        transition: all 3s;
     }
 
     #why .row>.first,
