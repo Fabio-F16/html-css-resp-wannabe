@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 830px){
     .row{
         width: 90%;
         display: flex;
@@ -40,7 +40,7 @@
 
     #why{
         background-color: #f8c10b;
-        padding: 2% 0px;
+        padding: 5% 0px;
     }
 
     #why .row>.first,
